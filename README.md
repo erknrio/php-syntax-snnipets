@@ -20,9 +20,9 @@ function myFunc () {
 }
 ```
 
-If you omit parameters, an inline form will appear. Use `ESC` to close the inline form or `ENTER` to complete the insertion.
+How to install and run Brackets
+-------------------------------
 
-List of syntax snippets
-===============
-```echo```: write a simple echo "Hello Wolrd".
-```echov```: write an echo "Hello Wolrd".variable.
+#### echo
+```echo```: write a simple echo "Hello Wolrd";<br>
+`echov`: write an echo "Hello Wolrd".variable;<br>

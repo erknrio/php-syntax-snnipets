@@ -1,0 +1,13 @@
+{
+    "name": "php-syntax-snippets",
+    "title": "PHP Syntax Snippets",
+    "description": "PHP Syntax Snippets/Hints.",
+    "homepage": "https://github.com/erknrio/php-syntax-snnipets",
+    "version": "0.0.1",
+    "author": "Adrian <erknrio@gmail.com> (https://github.com/erknrio/php-syntax-snnipets)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.38.0"
+    },
+    "keywords":["php","syntax","snippets","hint"]
+}
